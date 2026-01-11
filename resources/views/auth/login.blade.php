@@ -98,8 +98,8 @@
                 </div>
 
                 <div class="text-center mt-4">
-                    <small class="text-muted">By: <a href="https://www.youtube.com/@kaseps8304/videos"
-                            target="_blank">Kasep_Code</a></small>
+                    <small class="text-muted">By: <a href="https://www.youtube.com/channel/UCKVSWZLfg1sRNnn5d_Bly1g"
+                            target="_blank">Gusti Ahrahman</a></small>
                 </div>
             </form>
         </div>
